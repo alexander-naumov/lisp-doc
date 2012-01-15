@@ -1,0 +1,29 @@
+
+Articles (RUS):
+
+ | title                                                               | xref                                          |
+ |---------------------------------------------------------------------+-----------------------------------------------|
+ | lisp vs. java. Common Lisp: простота и мощь промышленного стандарта | http://www.xakep.ru/magazine/xa/133/100/1.asp |
+ |---------------------------------------------------------------------+-----------------------------------------------|
+ |                                                                     |                                               |
+ |                                                                     |                                               |
+
+Blogs (RUS):
+
+ | autor<email>[name]             | xref                            |
+ |--------------------------------+---------------------------------|
+ | rigidus <i.am.rigidus@gmail.ru | http://rigidus.livejournal.com  |
+ | linkfly                        | http://linkfly.livejournal.com/ |
+ | love5an                        | http://love5an.livejournal.com/ |
+ | swizard                        | http://swizard.livejournal.com  |
+ | lispnik                        | http://lispnik.livejournal.com  |
+ |                                |                                 |
+
+Sites (RUS):
+
+ | name                                                | xref              |
+ |-----------------------------------------------------+-------------------|
+ | Программирование как искусство                      | http://rigidus.ru |
+ | Русскоязычное сообщество Common Lisp разработчиков  | http://lisper.ru  |
+ |                                                     |                   |
+
